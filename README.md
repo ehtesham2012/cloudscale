@@ -6,3 +6,6 @@
 - check running pods : kubectl get pods -A
 
 ![Screenshot_20221207_014033](https://user-images.githubusercontent.com/104604060/206426733-e0b5b7fd-e922-4f68-9ca7-27e64ba791ee.png)
+
+- Create docker image from Dockerfile
+- apply app.yaml to deploy docker container image and expose the service on port 80
